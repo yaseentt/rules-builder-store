@@ -2,7 +2,7 @@
     "AMS/Fleet/Fleet Equipment/Replace": {
         "ApplicationSubmitAfter": [
             {
-                "addComment": "Test Comment",
+                "addComment": "Test Comments",
                 "addCondition": "Some Condition",
                 "daysOut": "12",
                 "newStatus": "",
