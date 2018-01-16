@@ -1,1 +1,19 @@
-contentssss
+{
+    "*/*/*/*": {
+        "Event 1": [
+            {
+                "preScript": "asdasdasd",
+                "geoCodeAddress": "",
+                "updateReferenceAddress": true,
+                "geoCodeInfo": "*/*/*/*",
+                "contactType": "asda",
+                "postScript": "dasdad",
+                "copyConditions": "",
+                "updateContactData": "",
+                "copyGISData": {
+                    "asdasd|asda|dasda": "asdasda"
+                }
+            }
+        ]
+    }
+}
