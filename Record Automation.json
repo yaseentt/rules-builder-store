@@ -1,0 +1,37 @@
+{
+    "AMS/Fleet/Fleet Equipment/Replace": {
+        "ApplicationSubmitAfter": [
+            {
+                "addComment": "Test Comment",
+                "addCondition": "Some Condition",
+                "daysOut": "12",
+                "newStatus": "",
+                "postScript": "",
+                "preScript": "",
+                "recordStatus": "",
+                "removeCondition": "",
+                "updateStatus": "",
+                "invoiceFees": true,
+                "activateTask": "Task #1|Task #2",
+                "deactivateTask": "Task #3",
+                "deleteTask": "",
+                "updateTask": "",
+                "createChild": "AMS/Electric/Repeater/Maintain",
+                "createParent": "AMS/Electric/Repeater/Maintain",
+                "addressFields": {
+                    "Zip Code": "123333",
+                    "": ""
+                },
+                "contactFields": {},
+                "customFields": {
+                    "test": "test"
+                },
+                "customLists": {
+                    "Table name/test": "test value"
+                },
+                "lpFields": {},
+                "parcelFields": {}
+            }
+        ]
+    }
+}
