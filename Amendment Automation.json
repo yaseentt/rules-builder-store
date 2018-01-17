@@ -1,0 +1,28 @@
+{
+    "AMS/Electric/Pole/Maintain": {
+        "ApplicationSubmitBefore": [
+            {
+                "activateParentTask": "",
+                "assignWorkflow": "",
+                "feeIncrementStart": null,
+                "feeItem": "",
+                "feeQty": "",
+                "feeSchedule": "",
+                "deActivateParentTasks": false,
+                "incrementParentID": false,
+                "feeAssess": ""
+            },
+            {
+                "activateParentTask": "",
+                "assignWorkflow": "",
+                "feeIncrementStart": null,
+                "feeItem": "",
+                "feeQty": "",
+                "feeSchedule": "",
+                "deActivateParentTasks": false,
+                "incrementParentID": false,
+                "feeAssess": ""
+            }
+        ]
+    }
+}
