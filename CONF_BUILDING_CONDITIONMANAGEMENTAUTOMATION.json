@@ -1,0 +1,70 @@
+{
+    "Building/Certificates/Building Completion/BCCE": {
+        "ApplicationDeleteBefore": [
+            {
+                "copyConditions": false,
+                "copyGroups": "",
+                "copyTypes": "",
+                "identifyStatus": "",
+                "indentifyType": "",
+                "conditionRecordTypes": "",
+                "lpFields": {},
+                "customFields": {}
+            }
+        ],
+        "ApplicationSubmitAfter": [
+            {
+                "copyConditions": false,
+                "copyGroups": "",
+                "copyTypes": "",
+                "identifyStatus": "",
+                "indentifyType": "",
+                "conditionRecordTypes": "",
+                "lpFields": {},
+                "customFields": {
+                    "Completion Type": "Partial"
+                }
+            },
+            {
+                "copyConditions": false,
+                "copyGroups": "",
+                "copyTypes": "",
+                "identifyStatus": "",
+                "indentifyType": "",
+                "conditionRecordTypes": "",
+                "lpFields": {},
+                "customFields": {
+                    "Completion Type": "Full"
+                }
+            }
+        ]
+    },
+    "Building/Chalets/Add Beneficiaries/ARPA": {
+        "ApplicationConditionOfApprovalUpdateAfter": [
+            {
+                "copyConditions": false,
+                "copyGroups": "",
+                "copyTypes": "",
+                "identifyStatus": "",
+                "indentifyType": "",
+                "conditionRecordTypes": "",
+                "lpFields": {},
+                "customFields": {}
+            }
+        ]
+    },
+    "Building/Certificates/Building Occupancy/BOCE": {
+        "DocumentReviewUpdateAfter/INF_WP_LOSM/Bank Guarantee": [
+            {
+                "copyConditions": false,
+                "copyGroups": "",
+                "copyTypes": "",
+                "identifyStatus": "Test|Test1",
+                "indentifyType": "",
+                "conditionRecordTypes": "",
+                "lpFields": {},
+                "customFields": {}
+            }
+        ]
+    }
+}
