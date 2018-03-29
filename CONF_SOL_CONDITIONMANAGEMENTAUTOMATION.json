@@ -1,0 +1,16 @@
+{
+    "Building/Certificates/Building Completion/BCCE": {
+        "ApplicationDeleteBefore": [
+            {
+                "copyConditions": false,
+                "copyGroups": "",
+                "copyTypes": "",
+                "identifyStatus": "",
+                "indentifyType": "Both",
+                "conditionRecordTypes": "",
+                "lpFields": {},
+                "test": {}
+            }
+        ]
+    }
+}
